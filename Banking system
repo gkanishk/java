@@ -1,6 +1,6 @@
 import java.io.*;
 
-
+//This is a Banking App used for managing accounts.
 class bank
 
 {
